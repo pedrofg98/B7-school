@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+@import 'tailwindcss';
+@import 'tw-animate-css';
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+  ────────────────────────────────────────────────────────────────
+  B7 BUSINESS SCHOOL — DESIGN TOKENS (do brand book oficial)
+  Marinho B7 #0A2342 · Meia-noite #04152B · Azul Detalhe #123E75
+  Névoa #E8EBF0 · Ouro #EBB318
+  Tipografia: Schibsted Grotesk (principal) · Source Serif 4 (citações)
+  ────────────────────────────────────────────────────────────────
+*/
+:root {
+  /* Cores de marca cruas */
+  --b7-marinho: #0a2342;     /* primária — base ~70% */
+  --b7-meia-noite: #04152b;  /* profundidade / fundos escuros */
+  --b7-azul-detalhe: #123e75;/* apoio */
+  --b7-nevoa: #e8ebf0;       /* neutro claro */
+  --b7-ouro: #ebb318;        /* acento ~5% — CTAs / destaques */
+
+  --radius: 0.625rem;
+
+  /* Tokens semânticos (light) */
+  --background: #ffffff;
+  --foreground: var(--b7-marinho);
+  --card: #ffffff;
+  --card-foreground: var(--b7-marinho);
+  --popover: #ffffff;
+  --popover-foreground: var(--b7-marinho);
+  --primary: var(--b7-marinho);
+  --primary-foreground: #ffffff;
+  --secondary: var(--b7-nevoa);
+  --secondary-foreground: var(--b7-marinho);
+  --muted: var(--b7-nevoa);
+  --muted-foreground: #4a5a72;
+  --accent: var(--b7-ouro);
+  --accent-foreground: var(--b7-meia-noite);
+  --destructive: #c0392b;
+  --border: #d6dbe6;
+  --input: #d6dbe6;
+  --ring: var(--b7-azul-detalhe);
+}
+
+.dark {
+  --background: var(--b7-meia-noite);
+  --foreground: var(--b7-nevoa);
+  --card: var(--b7-marinho);
+  --card-foreground: var(--b7-nevoa);
+  --popover: var(--b7-marinho);
+  --popover-foreground: var(--b7-nevoa);
+  --primary: var(--b7-ouro);
+  --primary-foreground: var(--b7-meia-noite);
+  --secondary: var(--b7-azul-detalhe);
+  --secondary-foreground: var(--b7-nevoa);
+  --muted: #16345c;
+  --muted-foreground: #aebcd2;
+  --accent: var(--b7-ouro);
+  --accent-foreground: var(--b7-meia-noite);
+  --destructive: #e74c3c;
+  --border: rgba(232, 235, 240, 0.12);
+  --input: rgba(232, 235, 240, 0.15);
+  --ring: var(--b7-ouro);
+}
+
+@theme inline {
+  /* Cores de marca como utilitários (bg-marinho, text-ouro, etc.) */
+  --color-marinho: var(--b7-marinho);
+  --color-meia-noite: var(--b7-meia-noite);
+  --color-azul-detalhe: var(--b7-azul-detalhe);
+  --color-nevoa: var(--b7-nevoa);
+  --color-ouro: var(--b7-ouro);
+
+  /* Tokens semânticos */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Tipografia */
+  --font-sans: 'Schibsted Grotesk', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Source Serif 4', ui-serif, Georgia, serif;
+
+  /* Raio */
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+/* Animações utilitárias (efeitos 21st.dev-style) */
+@keyframes shimmer-x {
+  from { background-position: 200% 0; }
+  to { background-position: -200% 0; }
+}
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-100%); }
+}
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-14px); }
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+  body {
+    margin: 0;
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+  }
+}
