@@ -1,0 +1,366 @@
+[
+  {
+    "name": "Martin Iglesias",
+    "company": "Itaú Unibanco",
+    "role": "Especialista em Recomendação de Investimentos",
+    "photo": "/brand/mentores/martin-iglesias.webp",
+    "linkedin": "https://www.linkedin.com/in/martin-iglesias-msc-cfp-996316117/"
+  },
+  {
+    "name": "Paula Falcão",
+    "company": "Gestão de Patrimônio",
+    "role": "Especialista em Wealth Management",
+    "photo": "/brand/mentores/paula-falcao.webp",
+    "linkedin": "https://www.linkedin.com/in/paulafalcaomatos/"
+  },
+  {
+    "name": "Dalita Britto",
+    "company": "Banco Safra",
+    "role": "Gerente de Treinamento e Desenvolvimento",
+    "photo": "/brand/mentores/dalita-britto.webp",
+    "linkedin": "https://www.linkedin.com/in/dalita-britto-5b841a168/"
+  },
+  {
+    "name": "Claudinei Brito Júnior",
+    "company": "Itaú Unibanco",
+    "role": "Especialista em Investimentos",
+    "photo": "/brand/mentores/claudinei-brito-junior.webp",
+    "linkedin": "https://www.linkedin.com/in/claudinei-brito-j%C3%BAnior-cea-paap%C2%AE-mfi-%C2%AE-8a4867119/"
+  },
+  {
+    "name": "Letícia Severiano",
+    "company": "Itaú Personnalité",
+    "role": "Gerente de Alta Renda",
+    "photo": "/brand/mentores/leticia-severiano.webp",
+    "linkedin": "https://www.linkedin.com/in/leticia-severiano/"
+  },
+  {
+    "name": "Isnayane Ramos",
+    "company": "BTG Pactual",
+    "role": "Diretora Associada de Investimentos",
+    "photo": "/brand/mentores/isnayane-ramos.webp",
+    "linkedin": "https://www.linkedin.com/in/isnayane-ramos-b9761b18a/"
+  },
+  {
+    "name": "Renato Souto",
+    "company": "Santander",
+    "role": "Líder Sênior Select",
+    "photo": "/brand/mentores/renato-souto.webp",
+    "linkedin": "https://www.linkedin.com/in/renatosoutoprofissional/"
+  },
+  {
+    "name": "João Pedro Silva",
+    "company": "Calix Family Office",
+    "role": "Consultor Financeiro",
+    "photo": "/brand/mentores/joao-pedro-silva.webp",
+    "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-pedro-silva-cfp%C2%AE-b16217b5/"
+  },
+  {
+    "name": "Victor Emediato",
+    "company": "Banco Itaú",
+    "role": "Líder de Escritório Íon",
+    "photo": "/brand/mentores/victor-emediato.webp",
+    "linkedin": "https://www.linkedin.com/in/victor-emediato-cfp%C2%AE-bb68ba86/"
+  },
+  {
+    "name": "Rogério Ortega",
+    "company": "C6 Bank",
+    "role": "Líder de Alta Renda",
+    "photo": "/brand/mentores/rogerio-ortega.webp",
+    "linkedin": "https://www.linkedin.com/in/rog%C3%A9rio-ortega-cea%C2%AE-62023a79/"
+  },
+  {
+    "name": "João Pedro Varela",
+    "company": "BTG Pactual",
+    "role": "Diretor Associado e Líder de Equipe",
+    "photo": "/brand/mentores/joao-pedro-varela.webp",
+    "linkedin": "https://www.linkedin.com/in/jo%C3%A3o-pedro-varela-cfp%C2%AE-cnpi-457057161/"
+  },
+  {
+    "name": "Julia Severo",
+    "company": "Bradesco Asset Management",
+    "role": "Vendas Offshore",
+    "photo": "/brand/mentores/julia-severo.webp",
+    "linkedin": "https://www.linkedin.com/in/juliasevero/"
+  },
+  {
+    "name": "Douglas Monteiro",
+    "company": "Bradesco",
+    "role": "Gerente de Relacionamento",
+    "photo": "/brand/mentores/douglas-monteiro.webp",
+    "linkedin": "https://www.linkedin.com/in/douglas-monteiro-36547bb4/"
+  },
+  {
+    "name": "Hugo Rodrigues",
+    "company": "Itaú Corretora",
+    "role": "Coordenador de Operações de Renda Variável",
+    "photo": "/brand/mentores/hugo-rodrigues.webp",
+    "linkedin": "https://www.linkedin.com/in/hugorodrigues89/"
+  },
+  {
+    "name": "Felipe Theodoro",
+    "company": "PicPay",
+    "role": "Coordenador de Especialistas em Investimentos",
+    "photo": "/brand/mentores/felipe-theodoro.webp",
+    "linkedin": "https://www.linkedin.com/in/felipe-theodoro-cfp%C2%AE-498344a8/"
+  },
+  {
+    "name": "Michel Leme",
+    "company": "B7 Business School",
+    "role": "Diretor de Compliance",
+    "photo": "/brand/mentores/michel-leme.webp",
+    "linkedin": "https://www.linkedin.com/in/michel-leme/"
+  },
+  {
+    "name": "Maia Sabritti",
+    "company": "Itaú Unibanco",
+    "role": "Especialista de Investimentos Íon",
+    "photo": "/brand/mentores/maia-sabritti.webp",
+    "linkedin": "https://www.linkedin.com/in/maiasabritti/"
+  },
+  {
+    "name": "Joana Lopes",
+    "company": "Avenue",
+    "role": "Gerente de Relacionamento",
+    "photo": "/brand/mentores/joana-lopes.webp",
+    "linkedin": "https://www.linkedin.com/in/joanalopesbr/"
+  },
+  {
+    "name": "Rafael Lins",
+    "company": "XP Investimentos",
+    "role": "Estrategista de Investimentos",
+    "photo": "/brand/mentores/rafael-lins.webp",
+    "linkedin": "https://www.linkedin.com/in/rafael-lins-souza/"
+  },
+  {
+    "name": "Kethlen Helena Pohl",
+    "company": "Mercado Financeiro",
+    "role": "Gerente de Investimentos",
+    "photo": "/brand/mentores/kethlen-helena-pohl.webp",
+    "linkedin": "https://www.linkedin.com/in/kethlen-helena-pohl/"
+  },
+  {
+    "name": "Rhuan Palma",
+    "company": "Santander",
+    "role": "Assessor de Investimentos de Alta Renda",
+    "photo": "/brand/mentores/rhuan-palma.webp",
+    "linkedin": "https://www.linkedin.com/in/rhuan-palma/"
+  },
+  {
+    "name": "Patrick Alves",
+    "company": "Itaú Personnalité",
+    "role": "BTG Investment Advisor II",
+    "photo": "/brand/mentores/patrick-alves.webp",
+    "linkedin": "https://www.linkedin.com/in/patrick-alves-cea/"
+  },
+  {
+    "name": "Jose Robson Junior",
+    "company": "Invés",
+    "role": "Private Banker",
+    "photo": "/brand/mentores/jose-robson-junior.webp",
+    "linkedin": "https://www.linkedin.com/in/jose-robson-junior/"
+  },
+  {
+    "name": "Maykon Henrique",
+    "company": "Mercado Financeiro",
+    "role": "Especialista em Investimentos",
+    "photo": "/brand/mentores/maykon-henrique.webp",
+    "linkedin": "https://www.linkedin.com/in/maykon-henrique/"
+  },
+  {
+    "name": "Maressa Campos",
+    "company": "Mercado Financeiro",
+    "role": "Especialista em Investimentos Internacionais",
+    "photo": "/brand/mentores/maressa-campos.webp",
+    "linkedin": "https://www.linkedin.com/in/maressa-campos/"
+  },
+  {
+    "name": "Jerson Zanlorenzi",
+    "company": "BTG Pactual",
+    "role": "Sócio",
+    "photo": "/brand/mentores/jerson-zanlorenzi.webp",
+    "linkedin": "https://www.linkedin.com/in/jersonzanlorenzi/"
+  },
+  {
+    "name": "Roberto Motta",
+    "company": "Genial Investimentos",
+    "role": "Estrategista Líder",
+    "photo": "/brand/mentores/roberto-motta.webp",
+    "linkedin": "https://www.linkedin.com/in/roberto-motta/"
+  },
+  {
+    "name": "Shirley Ambrosio",
+    "company": "Bradesco Private Bank",
+    "role": "Wealth Planning Specialist",
+    "photo": "/brand/mentores/shirley-ambrosio.webp",
+    "linkedin": "https://www.linkedin.com/in/shirley-ambrosio-tep-cfp%C2%AE-llm-995bb617b/"
+  },
+  {
+    "name": "Flavia Gaspar",
+    "company": "Safra",
+    "role": "Gerente",
+    "photo": "/brand/mentores/flavia-gaspar.webp",
+    "linkedin": "https://www.linkedin.com/in/flavia-bernardini-gaspar-cfp%C2%AE-b487ab14a/"
+  },
+  {
+    "name": "Caio Camargo",
+    "company": "Santander",
+    "role": "Estrategista Líder",
+    "photo": "/brand/mentores/caio-camargo.webp",
+    "linkedin": "https://www.linkedin.com/in/caiomcamargo/"
+  },
+  {
+    "name": "Luiz Zordan",
+    "company": "Safra",
+    "role": "Superintendente",
+    "photo": "/brand/mentores/luiz-zordan.webp",
+    "linkedin": "https://www.linkedin.com/in/luizaczordan/"
+  },
+  {
+    "name": "Wanessa Dermendjian",
+    "company": "",
+    "role": "Criadora do Método 93/7",
+    "photo": "/brand/mentores/wanessa-dermendjian.webp",
+    "linkedin": "https://www.linkedin.com/in/wanessa-chememian-dermendjian-cfp%C2%AE-601a8954/"
+  },
+  {
+    "name": "Alexandre Cabral",
+    "company": "",
+    "role": "Especialista no Mercado Financeiro",
+    "photo": "/brand/mentores/alexandre-cabral.webp",
+    "linkedin": "https://www.linkedin.com/in/alexandre-cabral-a79aa745/"
+  },
+  {
+    "name": "Andressa Sbrana",
+    "company": "",
+    "role": "Lawyer | Wealth Planning",
+    "photo": "/brand/mentores/andressa-sbrana.webp",
+    "linkedin": "https://www.linkedin.com/in/andressa-sbrana-8a1175192/"
+  },
+  {
+    "name": "Fernando Vazquez",
+    "company": "Athena Banco",
+    "role": "Vice Presidente",
+    "photo": "/brand/mentores/fernando-vazquez.webp",
+    "linkedin": "https://www.linkedin.com/in/fernando-vazquez-fernandez-32044228/"
+  },
+  {
+    "name": "Thiago Vila",
+    "company": "Banco Sofisa",
+    "role": "Superintendente Middle & Corporate",
+    "photo": "/brand/mentores/thiago-vila.webp",
+    "linkedin": "https://www.linkedin.com/in/thiagovila/"
+  },
+  {
+    "name": "André Cestari",
+    "company": "Affa Capital",
+    "role": "Fundador",
+    "photo": "/brand/mentores/andre-cestari.webp",
+    "linkedin": "https://www.linkedin.com/in/andr%C3%A9-jafet-cestari-58073020/"
+  },
+  {
+    "name": "Pedro Lippi",
+    "company": "Banco Fibra",
+    "role": "Superintendente Executivo",
+    "photo": "/brand/mentores/pedro-lippi.webp",
+    "linkedin": "https://www.linkedin.com/in/pedro-lippi/"
+  },
+  {
+    "name": "Max Marchon",
+    "company": "Banco Daycoval",
+    "role": "Superintendente Executivo",
+    "photo": "/brand/mentores/max-marchon.webp",
+    "linkedin": "https://www.linkedin.com/in/max-marchon/"
+  },
+  {
+    "name": "Cláudio Peres",
+    "company": "Banco Pine",
+    "role": "Regional Officer Agro",
+    "photo": "/brand/mentores/claudio-peres.webp",
+    "linkedin": "https://www.linkedin.com/in/claudio-peres/"
+  },
+  {
+    "name": "Domênica Zanerati",
+    "company": "Banco BMG",
+    "role": "Corporate Banker",
+    "photo": "/brand/mentores/domenica-zanerati.webp",
+    "linkedin": "https://www.linkedin.com/in/dom%C3%AAnica-zanerati-cfp%C2%AE-18a366b5/"
+  },
+  {
+    "name": "Rodrigo Zago",
+    "company": "Itaú BBA",
+    "role": "Gerente Regional do Agronegócio",
+    "photo": "/brand/mentores/rodrigo-zago.webp",
+    "linkedin": "https://www.linkedin.com/in/rodrigo-zago-17754022/"
+  },
+  {
+    "name": "Roselaine Oliveira",
+    "company": "Itaú BBA",
+    "role": "Especialista Meios de Pagamento",
+    "photo": "/brand/mentores/roselaine-oliveira.webp",
+    "linkedin": "https://www.linkedin.com/in/roselaine-de-oliveira-santos/"
+  },
+  {
+    "name": "Caique Dantas",
+    "company": "AVIN",
+    "role": "Head Empresas",
+    "photo": "/brand/mentores/caique-dantas.webp",
+    "linkedin": "https://www.linkedin.com/in/caiquedantas/"
+  },
+  {
+    "name": "Fabio Donizete",
+    "company": "Banco Safra",
+    "role": "Officer Middle Market & Corporate Banking",
+    "photo": "/brand/mentores/fabio-donizete.webp",
+    "linkedin": "https://www.linkedin.com/in/fabio-donizete-da-silva-1784251b6"
+  },
+  {
+    "name": "Fernanda Milena",
+    "company": "Santander Brasil",
+    "role": "Especialista em Gestão de Crédito III",
+    "photo": "/brand/mentores/fernanda-milena.webp",
+    "linkedin": "https://www.linkedin.com/in/fernanda-milena-lopes"
+  },
+  {
+    "name": "Thiago Pereira",
+    "company": "Santander Brasil",
+    "role": "Líder Empresas Região Bom Retiro",
+    "photo": "/brand/mentores/thiago-pereira.webp",
+    "linkedin": "https://www.linkedin.com/in/thiago-pereira-machado-a376201bb"
+  },
+  {
+    "name": "Gabrielle Fernandes",
+    "company": "Banco Inter",
+    "role": "Gerente de Relacionamento Middle Market",
+    "photo": "/brand/mentores/gabrielle-fernandes.webp",
+    "linkedin": "https://www.linkedin.com/in/gabrielle-fernandes-73955a144"
+  },
+  {
+    "name": "Amanda Alvarenga",
+    "company": "",
+    "role": "Gerente Empresas TOP Business",
+    "photo": "/brand/mentores/amanda-alvarenga.webp",
+    "linkedin": "https://www.linkedin.com/in/amandaasimoess"
+  },
+  {
+    "name": "Wallace Carvalho",
+    "company": "",
+    "role": "Especialista em Cash Management | Investimentos",
+    "photo": "/brand/mentores/wallace-carvalho.webp",
+    "linkedin": "https://www.linkedin.com/in/wallacecarvalho"
+  },
+  {
+    "name": "Murilo Silva",
+    "company": "",
+    "role": "Especialista em Produtos de Agronegócios e Crédito Rural",
+    "photo": "/brand/mentores/murilo-silva.webp",
+    "linkedin": "https://www.linkedin.com/in/murilosouto"
+  },
+  {
+    "name": "Diego Reis",
+    "company": "",
+    "role": "Agronegócios | Middle Market & Corporate Banking",
+    "photo": "/brand/mentores/diego-reis.webp",
+    "linkedin": "https://www.linkedin.com/in/diego-reis-cea-936336136"
+  }
+]
